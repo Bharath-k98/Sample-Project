@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testpack.tes1"/>  
+      <class name="testpack.tes1"/> 
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
